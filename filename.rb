@@ -1,5 +1,5 @@
 class Test
-   def code_for_this_thing
-      # this is an example
-   end
+  def code_for_this_thing_that_is_awesome
+     # this is an example
+  end
 end
